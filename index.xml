@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas Evans on My Portfolio</title>
+    <link>https://Nicholas-Evans-24.github.io/Nicholas_Evans_Portfolio/</link>
+    <description>Recent content in Nicholas Evans on My Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://Nicholas-Evans-24.github.io/Nicholas_Evans_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Nicholas-Evans-24.github.io/Nicholas_Evans_Portfolio/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Nicholas-Evans-24.github.io/Nicholas_Evans_Portfolio/elements/</guid>
+      <description>I grew up in a small town called Elberton, GA. I was in love with music and wanted to pursue it in college. After two years at the University of Georgia, I decided I didn&amp;rsquo;t want to pursue music anymore and wanted to do something that challenged and excited me more. I decided to try Computer Science because of friends and I never looked back!</description>
+    </item>
+    
+    <item>
+      <title>Image Model</title>
+      <link>https://Nicholas-Evans-24.github.io/Nicholas_Evans_Portfolio/posts/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Nicholas-Evans-24.github.io/Nicholas_Evans_Portfolio/posts/project2/</guid>
+      <description>Food Classification The purpose of this project is to take different images of food items and attempt to classify them into categories. There are 50 different types of food used, with 1,000 of images per type, resulting in 50,000 images to sort through. I used the Convolutional Neural Network model to break a part the images and learn them piece by piece. During the preprocessing stage, each image needed to be resized and scaled.</description>
+    </item>
+    
+    <item>
+      <title>LOL Model</title>
+      <link>https://Nicholas-Evans-24.github.io/Nicholas_Evans_Portfolio/posts/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Nicholas-Evans-24.github.io/Nicholas_Evans_Portfolio/posts/project1/</guid>
+      <description>League of Legends Win Prediction The purpose of this project is to use the data taken after 10 minutes of solo ranked gameplay and predict a win. There are 40 attributes recorded for each game: gameID, a blue team win/loss, and the other 38 are split between each team for different goals achieved. These goals include kills, deaths, towers destroyed, etc. This dataset has approximately 10,000 games saved. After doing proper preprocessing and experimenting with this data, three models were used for prediction: Logistic Regression, K-neighbors, and Support Vector Classification (SVC).</description>
+    </item>
+    
+  </channel>
+</rss>
